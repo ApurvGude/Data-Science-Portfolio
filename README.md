@@ -20,6 +20,6 @@ In this project, we scraped song lyrics of 46 artists from 7 different genres of
 
 We created a model to predict the starting salaries of a engineering college graduate. The training data consists of 4500 graduates with factors such as Degree,Specialization, College Tier, State and so on provided for each candidate. Using this data,we trained our regressor model which obtained a RMSE of around 13500.
 
-## 5. [Miniprojects](https://github.com/ApurvGude/Mini-Projects)
+## 5. [Data Science Miniprojects](https://github.com/ApurvGude/Mini-Projects)
 
-This is a repository of some smaller projects I have done on Kaggle or as a part of coursework.
+This is a repository of some smaller projects I have done on Kaggle or as a part of coursework for learning purposes.
